@@ -1,4 +1,4 @@
-##  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&lines=👋+I'm+Brandon. +I+Combine+ Programming,+and+Physics.)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=0CF70D&width=435&lines=I'm+Brandon.+Programmer+and+Physicist)](https://git.io/typing-svg)
 
 
 ## About Me

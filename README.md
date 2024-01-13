@@ -5,7 +5,7 @@
 I'm a self taught programmer with a bachelors degree in Physics. I've worked mainly in the defense and aerospace industry. My latest project is teaching myself Game Physics Engines. Check it out here: [https://github.com/BeyondBelief96/CyclonePhysicsEngine](https://github.com/BeyondBelief96/AeroliteEngine)
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,cs,dotnet,typescript,aws,dynamodb,c,nodejs,unity,&theme=light&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,cs,dotnet,C++,typescript,aws,dynamodb,c,C&theme=light&perline=6)](https://skillicons.dev)
 
 ### How to reach me
 Shoot me an email at brandonberisford@gmail.com or connect with me via:

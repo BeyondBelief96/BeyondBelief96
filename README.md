@@ -2,7 +2,7 @@
 
 
 ## About Me
-I'm a self taught programmer with a bachelors degree in Physics. I've worked mainly in the defense and aerospace industry. My latest project is teaching myself Game Physics Engines. Check it out here: [https://github.com/BeyondBelief96/AeroliteEngine](https://github.com/BeyondBelief96/AeroliteEngine)
+I'm a self taught programmer with a bachelors degree in Physics. I've worked mainly in the defense and aerospace industry. My latest project is creating a flight planning application for general aviation pilots. Check it out here: [vfr3d](https:vfr3d.com)
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,cs,dotnet,cpp,typescript,aws,dynamodb,c,C&theme=light&perline=6)](https://skillicons.dev)
